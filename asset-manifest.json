@@ -1,0 +1,30 @@
+{
+  "files": {
+    "main.css": "/React-Memory/static/css/main.f3b6cdd0.chunk.css",
+    "main.js": "/React-Memory/static/js/main.07c7bbbc.chunk.js",
+    "main.js.map": "/React-Memory/static/js/main.07c7bbbc.chunk.js.map",
+    "runtime-main.js": "/React-Memory/static/js/runtime-main.1186bf1e.js",
+    "runtime-main.js.map": "/React-Memory/static/js/runtime-main.1186bf1e.js.map",
+    "static/js/2.60b65611.chunk.js": "/React-Memory/static/js/2.60b65611.chunk.js",
+    "static/js/2.60b65611.chunk.js.map": "/React-Memory/static/js/2.60b65611.chunk.js.map",
+    "index.html": "/React-Memory/index.html",
+    "static/css/main.f3b6cdd0.chunk.css.map": "/React-Memory/static/css/main.f3b6cdd0.chunk.css.map",
+    "static/js/2.60b65611.chunk.js.LICENSE.txt": "/React-Memory/static/js/2.60b65611.chunk.js.LICENSE.txt",
+    "static/media/angular.904e1c3a.svg": "/React-Memory/static/media/angular.904e1c3a.svg",
+    "static/media/backside.e0bd9c76.png": "/React-Memory/static/media/backside.e0bd9c76.png",
+    "static/media/logo-bootstrap.c2ff1a60.png": "/React-Memory/static/media/logo-bootstrap.c2ff1a60.png",
+    "static/media/logo-ember.20db1e58.png": "/React-Memory/static/media/logo-ember.20db1e58.png",
+    "static/media/logo-jquery.f130f32f.png": "/React-Memory/static/media/logo-jquery.f130f32f.png",
+    "static/media/logo-knockout.a05e9e70.png": "/React-Memory/static/media/logo-knockout.a05e9e70.png",
+    "static/media/logo-meteor.7fe63d86.png": "/React-Memory/static/media/logo-meteor.7fe63d86.png",
+    "static/media/logo-node.c2e22c63.png": "/React-Memory/static/media/logo-node.c2e22c63.png",
+    "static/media/logo-react.ef20e673.png": "/React-Memory/static/media/logo-react.ef20e673.png",
+    "static/media/logo-vue.d54b99f6.png": "/React-Memory/static/media/logo-vue.d54b99f6.png"
+  },
+  "entrypoints": [
+    "static/js/runtime-main.1186bf1e.js",
+    "static/js/2.60b65611.chunk.js",
+    "static/css/main.f3b6cdd0.chunk.css",
+    "static/js/main.07c7bbbc.chunk.js"
+  ]
+}
