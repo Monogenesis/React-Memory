@@ -1,4 +1,4 @@
-# React-Memory
+# Memory
 
 This is a memory game made with the React library.
 
